@@ -99,9 +99,17 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 </p>
 </div>
 <br>
-<br>
-<br>
+#🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gitcrusher&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gitcrusher&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=gitcrusher&icon=10&color=1)](https://visitcount.itsvg.in)
 <div align=center>
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🐍 SNAKE Eating my ;+ Github contribution Graph !!.." alt="Typing SVG" /></h2>
     
