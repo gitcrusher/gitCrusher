@@ -118,9 +118,9 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 </h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitcrusher/gitcrusher/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitcrusher/gitcrusher/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gitcrusher/gitcrusher/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitcrusher/gitcrusher/output1/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitcrusher/gitcrusher/output1/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gitcrusher/gitcrusher/output1/pacman-contribution-graph.svg">
 </picture>
 
 ###
