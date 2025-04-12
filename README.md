@@ -79,16 +79,16 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gitcrusher&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/gitcrusher?tab=stars)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gitcrusher&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/gitcrusher?tab=stars)
 
 
 
-<a href="https://github.com/gitcrusher?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=gitcrusher&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="Aayush's github-readme-stats"/></a>
+<a href="https://github.com/gitcrusher?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=gitcrusher&theme=highcontrast&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="Aayush's github-readme-stats"/></a>
 <br>
 <br>
 
 
-<a href="https://wakatime.com/gitcrusher"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitcrusher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+<a href="https://wakatime.com/gitcrusher"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitcrusher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
  </a>
  <br>
     <br>
@@ -111,11 +111,11 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<h2 align="center"> </h2>
-<br>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+
+
+
+<div align=center>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines= 🟡👻 PACMAN eating ;+ Github contribution Graph !!.." alt="Typing SVG" /></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitcrusher/gitcrusher/output1/pacman-contribution-graph-dark.svg">
@@ -123,4 +123,23 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gitcrusher/gitcrusher/output1/pacman-contribution-graph.svg">
 </picture>
 
+
+
+<h2 align="center"> </h2>
+<br>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
 ###
+
+
+
+
+
+
+
+
+
+
+
