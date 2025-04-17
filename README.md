@@ -1,7 +1,7 @@
 ﻿
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush Soni !👋" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Aayush+Soni+!%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=gitcrusher)<br>
@@ -93,7 +93,7 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 
 
 <div align=center>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🐍 SNAKE Eating my ;+ Github contribution Graph !!.." alt="Typing SVG" /></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%90%8D+SNAKE+Eating+my;Github+contribution+Graph+!!...." alt="Typing SVG" /></a></h2>
     
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -111,7 +111,7 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 
 
 <div align=center>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines= 🟡👻 PACMAN eating ;+ Github contribution Graph !!.." alt="Typing SVG" /></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9F%A1%F0%9F%91%BB+PACMAN+eating+;Github+contribution+Graph+!!.." alt="Typing SVG" /></a></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitcrusher/gitcrusher/output1/pacman-contribution-graph-dark.svg">
