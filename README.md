@@ -111,7 +111,7 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 
 
 <div align=center>
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9F%A1%F0%9F%91%BB+PACMAN+eating+;Github+contribution+Graph+!!.." alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9F%A1%F0%9F%91%BB+PACMAN+eating+my;Github+contribution+Graph+!!.." alt="Typing SVG" /></a></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitcrusher/gitcrusher/output1/pacman-contribution-graph-dark.svg">
